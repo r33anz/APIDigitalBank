@@ -1,0 +1,8 @@
+apibank/
+__pycache__/
+*.pyc
+.env
+*.db
+.pytest_cache/
+.coverage
+htmlcov/
